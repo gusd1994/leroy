@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dbf14bd3-396d-4c37-bc48-4e350dd4312d" name="leroy:root@31.184.253.221:22">
+        <fileTransfer rootFolder="/home/git/leroy" accessType="SFTP" host="31.184.253.221" port="22" sshConfigId="90b3d39d-bf12-4293-876d-a7f2606ed97c" sshConfig="root@31.184.253.221:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
